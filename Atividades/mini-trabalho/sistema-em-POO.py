@@ -1,5 +1,5 @@
 ''''
-Autor do projeto: Wendel Spargoli Bernardo da Silva (Matrícula: 2025b011434)
+Autor do projeto: Wendel Spargoli
 
 Parte 2 do Mini-trabalho refatoração do código para POO
 
